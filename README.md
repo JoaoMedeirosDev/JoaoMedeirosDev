@@ -16,7 +16,7 @@
 </div>
 
 # ⚙️Habilidades Técnicas
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,wasm,postgres,mysql,express,git,linux,react,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,wasm,postgres,mysql,express,git,linux,react,python,react)](https://skillicons.dev)
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=JoaoMedeirosDev&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
