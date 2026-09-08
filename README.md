@@ -3,9 +3,9 @@
 - 💻 Desenvolvedor de Software.
 - 🚀 Buscando minha primeira oportunidade.
 - 🛠️ Disponível para contribuir em projetos.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💻 Possuo especialização em Back-end através da [Cubos Academy](https://cubos.academy/).
-- 💡 Focado na evolução constante! Focado na evolução constante! Possuo habilidades em desenvolvimento back-end, porém, também estou me especializando no front para poder construir soluções completas e integradas para meu projeto.
+- 💡 Focado na evolução constante! Possuo habilidades em desenvolvimento back-end, porém, também estou me especializando no front para poder construir soluções completas e integradas para meu projeto.
 - 🎮 Curto jogar League of Legends e Grand Theft Auto: San Andreas.
 
 <div align="center">
